@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="left">Olá, meu nome é Victor!</h1>
 
-<!--
-**vsoares99/vsoares99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Sou fascinado pelo mundo da tecnologia e tenho um grande interesse em me tornar um Desenvolvedor Web com foco em C#/.NET. Possuo sólido conhecimento em suporte técnico, que utilizo como parâmetro para desenvolver sistemas que sejam intuitivos e confortáveis ao usuário.</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://www.linkedin.com/in/victorsoares99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@vsoares99" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/victorh99s/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsoares99&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
+</div>
+
+<h3 align="left">Minhas principais habilidades</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<p align="left">Acredito que a tecnologia capacita as pessoas a usar e aproveitar suas vantagens de maneira eficaz. Embora eu esteja nos planos iniciais do meu caminho, estou comprometido com o aprendizado contínuo e estou sempre em busca de novos recursos, cursos e oportunidades para aprimorar minhas habilidades. </p>
