@@ -36,4 +36,4 @@
 
 ###
 
-<p align="left">Acredito que a tecnologia capacita as pessoas a usar e aproveitar suas vantagens de maneira eficaz. Embora eu esteja nos planos iniciais do meu caminho, estou comprometido com o aprendizado contínuo e estou sempre em busca de novos recursos, cursos e oportunidades para aprimorar minhas habilidades. </p>
+<p align="left">Acredito que a tecnologia tem a capacidade de moldar o mundo, e que por ela, podemos criar um futuro sustentável. Embora eu esteja nos planos iniciais de minha carreira, estou comprometido com o aprendizado contínuo e estou sempre em busca de novos cursos e oportunidades para aprimorar minhas habilidades.  </p>
