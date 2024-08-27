@@ -36,4 +36,4 @@
 
 ###
 
-<p align="left">Acredito que a tecnologia tem a capacidade de moldar o mundo, e que por ela, podemos criar um futuro sustentável. Embora eu esteja nos planos iniciais de minha carreira, estou comprometido com o aprendizado contínuo e estou sempre em busca de novos cursos e oportunidades para aprimorar minhas habilidades.  </p>
+<p align="left">Acredito que a tecnologia pode desempenhar um papel fundamental na construção de um futuro mais sustentável e promissor, e é por isso que estou tão comprometido com os desafios da área.  </p>
