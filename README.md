@@ -2,7 +2,10 @@
 
 <p>Sou fascinado pelo mundo da tecnologia e tenho um grande interesse em me tornar um Desenvolvedor Web com foco em C#/.NET. Possuo sólido conhecimento em suporte técnico, que utilizo como parâmetro para desenvolver sistemas que sejam intuitivos e confortáveis ao usuário.</p>
 
+<p align="left">Acredito que a tecnologia pode desempenhar um papel fundamental na construção de um futuro mais sustentável e promissor, e é por isso que estou tão comprometido com os desafios da área.  </p>
+
 ###
+<h3 align="left">Redes sociais</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victorsoares99/" target="_blank">
@@ -17,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vsoares99&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
 </div>
 
-<h3 align="left">Minhas principais habilidades</h3>
+<h3 align="left">Tecnologias</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="csharp logo"  />
@@ -32,5 +35,3 @@
 </div>
 
 ###
-
-<p align="left">Acredito que a tecnologia pode desempenhar um papel fundamental na construção de um futuro mais sustentável e promissor, e é por isso que estou tão comprometido com os desafios da área.  </p>
