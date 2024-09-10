@@ -1,6 +1,6 @@
 <h1 align="left">Olá, meu nome é Victor!</h1>
 
-<p>Sou fascinado pelo mundo da tecnologia e tenho um grande interesse em me tornar um Desenvolvedor Web com foco em C#/.NET. Possuo sólido conhecimento em suporte técnico, que utilizo como parâmetro para desenvolver sistemas que sejam intuitivos e confortáveis ao usuário.</p>
+<p>Sou um estudante de Tecnologia com foco em Desenvolvimento Web, especializado em C# e .NET para criar soluções robustas e eficientes. Minha experiência em Suporte ao Cliente me ensinou a importância de designs intuitivos e amigáveis, tanto no código quanto na experiência do usuário final.</p>
 
 <p align="left">Acredito que a tecnologia pode desempenhar um papel fundamental na construção de um futuro mais sustentável e promissor, e é por isso que estou tão comprometido com os desafios da área.  </p>
 
