@@ -1,8 +1,6 @@
 <h1 align="left">Olá, meu nome é Victor!</h1>
 
-<p>Sou um estudante de Tecnologia com foco em Desenvolvimento Web, especializado em C# e .NET para criar soluções robustas e eficientes. Minha experiência em Suporte ao Cliente me ensinou a importância de designs intuitivos e amigáveis, tanto no código quanto na experiência do usuário final.</p>
-
-<p align="left">Acredito que a tecnologia pode desempenhar um papel fundamental na construção de um futuro mais sustentável e promissor, e é por isso que estou tão comprometido com os desafios da área.  </p>
+<p>Sou estudante de programação e atualmente trabalho com instalação e configuração de sistemas (código-fonte) de forma autônoma. De acordo com a documentação do sistema que meu cliente deseja hospedar online, realizo a instalação e personalização deste código-fonte, alterando por linha de código, a logomarca, as cores e demais informações solicitadas.</p>
 
 ###
 <h3 align="left">Redes sociais</h3>
