@@ -1,34 +1,21 @@
-<h1 align="left">Olá, meu nome é Victor!</h1>
+# 💫 Sobre mim:
+Sou estudante de programação e atualmente estou procurando minha primeira oportunidade em Desenvolvimento Web.
 
-<p>Sou estudante de programação e atualmente trabalho com instalação e configuração de sistemas (código-fonte) de forma autônoma. De acordo com a documentação do sistema que meu cliente deseja hospedar online, realizo a instalação e personalização deste código-fonte, alterando por linha de código, a logomarca, as cores e demais informações solicitadas.</p>
 
-###
-<h3 align="left">Redes sociais</h3>
+## 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victorsoares99/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codismo) 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/victorsoares99/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@codismo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-</div>
+# 💻 Tecnologias:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vsoares99&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Tecnologias</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=vsoares99&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="csharp logo"  />
-  
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30" alt="donet logo"  />
-  
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo"  />
-  
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30" alt="microsoftsqlserver logo"  />
-  
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
-  
-  
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 <h3 align="left">GitHub Commits</h3>
