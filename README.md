@@ -16,10 +16,3 @@ Sou estudante de programação e atualmente estou procurando minha primeira opor
 [![](https://visitcount.itsvg.in/api?id=vsoares99&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-<h3 align="left">GitHub Commits</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsoares99&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
-</div>
