@@ -12,7 +12,4 @@ Sou estudante de programação e atualmente estou procurando minha primeira opor
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vsoares99&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=vsoares99&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
