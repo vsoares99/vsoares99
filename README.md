@@ -18,7 +18,7 @@ Estou finalizando minha graduação em Sistemas de Informação na Faculdade Des
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 **Exemplo:**
-```markdown
+
 | 🚀 Programação | 🌌 Marcação | 🛸 Frameworks | Banco de Dados | 📡 Softwares |
 |----------------|-------------|----------------|---------------|---------------|
 |  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple)   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  | [LinkedIn]     | Figma           |
