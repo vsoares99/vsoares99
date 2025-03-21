@@ -3,9 +3,7 @@
 ![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
 ## 🚀 Bem-vindo ao meu Universo de Código! 🌌
-Olá, visitante! 
-<br>
-Meu nome é Victor, sou estudante de desenvolvimento Fullstack.
+Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack.
 
 <div>
   <strong>🎓 Sistemas de Informação</strong>
