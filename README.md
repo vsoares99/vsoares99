@@ -3,7 +3,7 @@
 ![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
 ## 🚀 Bem-vindo ao meu Universo de Código! 🌌
-<p> Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. </p>
+<p> Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack. </p>
 
 <div>
   <strong>🎓 Sistemas de Informação</strong>
