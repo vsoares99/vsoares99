@@ -6,7 +6,7 @@
 ###### ![Descomplica](https://img.shields.io/badge/Faculdade%20Descomplica-green)Sistemas de Informação 
 
 
-##### Suporte à Telecom e Dados
+###### Suporte à Telecom e Dados
 ![Banrisul](https://img.shields.io/badge/Banrisul-darkblue)
 
 ## 🛸 Tecnologias que uso
