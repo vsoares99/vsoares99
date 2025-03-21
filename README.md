@@ -4,12 +4,12 @@
 <p> Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. </p>
 
 <div>
-  - <strong>🎓 Sistemas de Informação</strong>
+  <strong>🎓 Sistemas de Informação</strong>
   <br>
   <img src="https://img.shields.io/badge/Faculdade_Descomplica-1bb373?style=flat&logo=university&logoColor=white" alt="Faculdade Descomplica" />
   <br>
   <br>
-  - <strong>🏦 Suporte à Telecom e Dados</strong>
+  <strong>🏦 Suporte à Telecom e Dados</strong>
   <br>
   <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
 </div>
