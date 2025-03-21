@@ -17,7 +17,8 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
 </div>
 
 ## 🛸 Tecnologias que utilizo
-<strong>Programação</strong> 
+<div>
+  <strong>Programação</strong> 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 <br>
 <br>
@@ -39,6 +40,8 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
 <br>
 <strong>Softwares</strong>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PhotoShop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+</div>
+
 
 ## 📡 Conecte-se às minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorsoares99/) 
