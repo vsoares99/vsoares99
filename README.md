@@ -51,9 +51,8 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
 </div>
 
 ## 📡 Conecte-se às minhas redes sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorsoares99/)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codismo) 
+[![LinkedIn](https://img.shields.io/badge/⇱-LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorsoares99/)
+[![YouTube](https://img.shields.io/badge/⇱-YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codismo) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
