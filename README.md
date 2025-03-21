@@ -1,4 +1,4 @@
-![nasa-Q1p7bh3SHj8-unsplash](https://github.com/user-attachments/assets/d7632b6e-f91b-401b-9333-be56f0c8259b)
+![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
 # 🚀 Bem-vindo ao Meu Universo de Código! 🌌
 Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. 
