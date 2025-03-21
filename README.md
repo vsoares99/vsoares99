@@ -16,20 +16,22 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
 </div>
 
-<div>
-  <strong>Sistemas de Informação</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Faculdade_Descomplica-1bb373?style=flat&logo=university&logoColor=white"/>
-  <br>
-  <br>
-  <strong>Suporte à Telecom e Dados</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white"/>
-</div>
-
 ## 🛸 Tecnologias que utilizo
 
-<strong>Programação</strong> 
+<div>
+  <strong>Programação</strong>
+  <br>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple" alt"csharp" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  <br>
+  <br>
+  <strong>Marcação/Estilização</strong>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css" />
+</div>
+
+<strong></strong> 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 <br>
 <strong>Marcação/Estilização</strong> 
