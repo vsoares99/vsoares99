@@ -19,19 +19,19 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
 ## 🛸 Tecnologias que utilizo
 <strong>Programação</strong>
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
+<br>
 <strong>Marcação/Estilização</strong>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
+<br>
 <strong>Frameworks</strong>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-
+<br>
 <strong>Banco de Dados</strong>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-
+<br>
 <strong>Versionamento</strong>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
+<br>
 <strong>Softwares</strong>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PhotoShop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
