@@ -15,6 +15,12 @@ Estou finalizando minha graduação em Sistemas de Informação na Faculdade Des
 ![](https://github-readme-stats.vercel.app/api?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vsoares99&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=vsoares99&theme=dark&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+**Exemplo:**
+```markdown
+| 🚀 Programação | 🌌 Marcação | 🛸 Frameworks | Banco de Dados | 📡 Softwares |
+|----------------|-------------|----------------|---------------|---------------|
+|  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple)   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  | [LinkedIn]     | Figma           |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)        | Projeto 2   | [Twitter]      | Adobe PhotoShop |
+| React          | Projeto 3   | [Email]        |
