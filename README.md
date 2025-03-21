@@ -47,7 +47,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <strong>Softwares</strong>
   <br>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20PhotoShop&logoColor=white" alt="adobeps" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white" alt="adobeps" />
   <br>
 </div>
 
