@@ -1,8 +1,8 @@
 ![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
 # 🚀 Bem-vindo ao meu Universo de Código! 🌌
-Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. 
-Estou finalizando minha graduação em Sistemas de Informação na Faculdade Descomplica e atuo como Suporte Operacional à Telecom e Dados no Banco do Estado do Rio Grande do Sul (Banrisul).
+<p>Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. </p>
+<p>Estou finalizando minha graduação em Sistemas de Informação na Faculdade Descomplica e atuo como Suporte Operacional à Telecom e Dados no Banco do Estado do Rio Grande do Sul (Banrisul).</p>
 
 ## 🛸 Tecnologias que uso
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PhotoShop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
