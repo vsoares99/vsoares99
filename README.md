@@ -21,7 +21,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
 <div>
   <strong>Programação</strong>
   <br>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple" alt"csharp" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=823085" alt"csharp" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="php" />
   <br>
