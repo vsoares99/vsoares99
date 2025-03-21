@@ -9,13 +9,13 @@
 ![Banrisul](https://img.shields.io/badge/Banrisul-darkblue)
 
 <div>
-  <img src="https://img.shields.io/badge/Faculdade_Descomplica-1bb373?style=flat&logo=university&logoColor=white" alt="Faculdade Descomplica" />
   <strong>Sistemas de Informação</strong>
+  <img src="https://img.shields.io/badge/Faculdade_Descomplica-1bb373?style=flat&logo=university&logoColor=white" alt="Faculdade Descomplica" />
 </div>
 <br>
 <div>
-  <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
   <strong>Suporte à Telecom e Dados</strong>
+  <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
 </div>
 
 ## 🛸 Tecnologias que uso
