@@ -3,11 +3,6 @@
 ## 🚀 Bem-vindo ao meu Universo de Código! 🌌
 <p> Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. </p>
 
-###### Sistemas de Informação 
-![Descomplica](https://img.shields.io/badge/Faculdade%20Descomplica-green)
-###### Suporte à Telecom e Dados
-![Banrisul](https://img.shields.io/badge/Banrisul-darkblue)
-
 <div>
   <strong>Sistemas de Informação</strong>
   <br>
@@ -16,6 +11,7 @@
 <br>
 <div>
   <strong>Suporte à Telecom e Dados</strong>
+  <br>
   <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
 </div>
 
