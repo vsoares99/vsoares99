@@ -1,10 +1,10 @@
 ![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
-# 🚀 Bem-vindo ao meu Universo de Código! 🌌
+## 🚀 Bem-vindo ao meu Universo de Código! 🌌
 <p> Olá, visitante! Sou Victor, um estudante de desenvolvimento Fullstack que tem como foco o Backend. </p>
 
-###### ![Descomplica](https://img.shields.io/badge/Faculdade%20Descomplica-green)Sistemas de Informação 
-
+###### Sistemas de Informação 
+![Descomplica](https://img.shields.io/badge/Faculdade%20Descomplica-green)
 
 ###### Suporte à Telecom e Dados
 ![Banrisul](https://img.shields.io/badge/Banrisul-darkblue)
@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorsoares99/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codismo) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vsoares99&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
