@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=1BF700&width=435&lines=iniciando+protocolos+de+lan%C3%A7amento..;preparando+propulsores...;aguarde...;lan%C3%A7amento+finalizado+com+sucesso...;boas+vindas+ao+cosmos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=1BF700&width=435&lines=iniciando+protocolos+de+lan%C3%A7amento...;preparando+propulsores...;aguarde...;lan%C3%A7amento+finalizado+com+sucesso...;boas+vindas+ao+cosmos!)](https://git.io/typing-svg)
 
 ![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
@@ -16,7 +16,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
 </div>
 
-## 🛸 Tecnologias que utilizo
+## 🛸 Tecnologias que uso
 
 <div>
   <strong>Programação</strong>
@@ -47,7 +47,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <strong>Softwares</strong>
   <br>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="adobeps" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20PhotoShop&logoColor=white" alt="adobeps" />
   <br>
 </div>
 
