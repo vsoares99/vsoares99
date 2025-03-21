@@ -7,9 +7,7 @@
   <strong>Sistemas de Informação</strong>
   <br>
   <img src="https://img.shields.io/badge/Faculdade_Descomplica-1bb373?style=flat&logo=university&logoColor=white" alt="Faculdade Descomplica" />
-</div>
-
-<div>
+  <br>
   <strong>Suporte à Telecom e Dados</strong>
   <br>
   <img src="https://img.shields.io/badge/Banrisul-020f63?style=flat&logo=bank&logoColor=white" alt="Banrisul" />
