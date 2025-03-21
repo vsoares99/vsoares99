@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=1BF700&width=435&lines=Iniciando+protocolos+de+lan%C3%A7amento..;Preparando+propulsores...;...;Lan%C3%A7amento+finalizado+com+sucesso!;Boas+vindas+ao+Cosmos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=4000&pause=1000&color=1BF700&width=435&lines=iniciando+protocolos+de+lan%C3%A7amento..;preparando+propulsores...;aguarde...;lan%C3%A7amento+finalizado+com+sucesso!;boas+vindas+ao+cosmos!)](https://git.io/typing-svg)
 
 ![earth](https://github.com/user-attachments/assets/395a9826-2def-4e78-a866-3e848c5452ed)
 
