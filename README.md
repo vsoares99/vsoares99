@@ -17,6 +17,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
 </div>
 
 ## 🛸 Tecnologias que utilizo
+|------|-------|
 | <strong>Programação</strong> 
 | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
 <br>
