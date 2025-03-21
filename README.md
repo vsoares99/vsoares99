@@ -10,6 +10,7 @@
 
 <div>
   <strong>Sistemas de Informação</strong>
+  <br>
   <img src="https://img.shields.io/badge/Faculdade_Descomplica-1bb373?style=flat&logo=university&logoColor=white" alt="Faculdade Descomplica" />
 </div>
 <br>
