@@ -16,11 +16,3 @@ Estou finalizando minha graduação em Sistemas de Informação na Faculdade Des
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vsoares99&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsoares99&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-**Exemplo:**
-
-| 🚀 Programação | 🌌 Marcação | 🛸 Frameworks | Banco de Dados | 📡 Softwares |
-|----------------|-------------|----------------|---------------|---------------|
-|  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple)   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)        | Projeto 2   | [Twitter]      | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) |
-| React          | Projeto 3   | [Email]        |
