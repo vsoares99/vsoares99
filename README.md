@@ -23,7 +23,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <br>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=purple" alt"csharp" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="php" />
   <br>
   <strong>Marcação/Estilização</strong>
   <br>
@@ -47,7 +47,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <strong>Softwares</strong>
   <br>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="adobeps" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="adobeps" />
   <br>
 </div>
 
