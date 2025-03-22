@@ -44,7 +44,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="github" />
   <br>
-  <strong>Softwares</strong>
+  <strong>Outros Softwares</strong>
   <br>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white" alt="adobeps" />
