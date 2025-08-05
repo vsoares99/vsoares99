@@ -32,7 +32,7 @@ Olá, visitante! Meu nome é Victor e sou estudante de desenvolvimento Fullstack
   <br>
   <strong>Frameworks</strong>
   <br>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt="dotnet" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat" alt="dotnet" />
   <br>
   <strong>Banco de Dados</strong>
   <br>
